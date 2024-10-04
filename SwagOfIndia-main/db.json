@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": "product2",
+            "name": "Awesome Product 1",
+            "price": "1200",
+            "priceAfterDiscount": "990",
+            "imageName": "product2",
+            "ratings": "3.2"
+        },
+        {
+            "id": "product2",
+            "name": "Cool Product 2",
+            "price": "1340",
+            "priceAfterDiscount": "860",
+            "imageName": "product2",
+            "ratings": "5"
+        },
+        {
+            "id": "product2",
+            "name": "Amazing Product 3",
+            "price": "2060",
+            "priceAfterDiscount": "1120",
+            "imageName": "product2",
+            "ratings": "2.5"
+        },
+        {
+            "id": "product2",
+            "name": "Huge Product 4",
+            "price": "1870",
+            "priceAfterDiscount": "930",
+            "imageName": "product2",
+            "ratings": "3.5"
+        },
+        {
+            "id": "product2",
+            "name": "Tiny Product 5",
+            "price": "1000",
+            "priceAfterDiscount": "700",
+            "imageName": "product2",
+            "ratings": "5"
+        },
+        {
+            "id": "product2",
+            "name": "Expensive Product 6",
+            "price": "3000",
+            "priceAfterDiscount": "1500",
+            "imageName": "product2",
+            "ratings": "4.7"
+        },
+         {
+            "id": "product2",
+            "name": "Aged Product 7",
+            "price": "2000",
+            "priceAfterDiscount": "900",
+            "imageName": "product2",
+            "ratings": "4"
+        },
+         {
+            "id": "product2",
+            "name": "Fair Product 8",
+            "price": "1000",
+            "priceAfterDiscount": "650",
+            "imageName": "product2",
+            "ratings": "2.7"
+        },
+         {
+            "id": "product2",
+            "name": "Best Product 9",
+            "price": "3000",
+            "priceAfterDiscount": "1300",
+            "imageName": "product2",
+            "ratings": "3"
+        }
+    ]
+}
